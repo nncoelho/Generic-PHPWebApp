@@ -1,0 +1,17 @@
+{
+    "name": "coelho/webdeveloper",
+    "description": "Webdeveloper Portefolio in PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nuno Luis Neto Coelho Dos Santos",
+            "email": "coelho301181@gmail.com"
+        }
+    ],
+    "require": {}
+}
