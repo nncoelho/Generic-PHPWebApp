@@ -1,3 +1,3 @@
 # Generic-PHPWebApp
 
-Generic PHP Vanilla WebApp in development
+Generic strucuture for a PHP vanilla WebApp
